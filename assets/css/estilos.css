@@ -3,7 +3,7 @@ ul {
     padding: 0;
     overflow: hidden;
     list-style-type: none;
-    background-color: #595353;
+    background-color: #d0b021;
   }
   
   li {
@@ -11,18 +11,18 @@ ul {
   }
   
   li a {
-    color: white;
+    color: rgb(13, 13, 13);
     display: block;
     padding: 14px 16px; /* Arriba y abajo 14, izquierda y derecha 16 */
     text-decoration: none;
   }
   
   li a:hover {
-    background-color: #4eb9cc;
+    background-color: #d0b021;
   }
   
   .activo {
-    background-color: #20597d;
+    background-color: #d0b021;
   }
   
   .derecha {
@@ -32,12 +32,12 @@ ul {
   .miJumbo {
     margin-top: 1rem;
     padding: 32px 16px;
-    background-color: #206dba;
+    background-color: #f3eceb;
     border-radius: 0.5rem;
     text-align: center;
-    color: aliceblue;
+    color: rgb(10, 10, 10);
   }
 
   .fondo {
-    background-color: rgb(232, 236, 239);
+    background-color: rgb(250, 250, 5);
   }
